@@ -1,2 +1,2 @@
-# Math-Notes-with-LaTeX
-Notes written in LaTeX regarding Probability Fundamentals
+# Math-Notes-with-LaTeX and R markdown
+Notes written in LaTeX and R markdown on various mathematical concepts. 
